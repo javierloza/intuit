@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# Ignore build artifacts
+/build
+/dist
+
+# dotenv environment variables file
+.env
+.env.development
+.env.test
